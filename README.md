@@ -19,3 +19,10 @@ HOW IT WORKS:
         * 1 is most disagree and 5 is most agree.
     * Once done the user will click submit.
     * Then your match will be shown with their picture.
+
+![table](./images/friendfinder1.png?raw=true "Optional Title")
+
+![questions](./images/friendfinder2.png?raw=true "Optional Title")
+
+![table](./images/friendfinder3.png?raw=true "Optional Title")
+
