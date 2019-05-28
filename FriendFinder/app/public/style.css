@@ -1,0 +1,60 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlTl7KwtTSNLVczCcFtjSDVJ4CYrU-Npt_4W20-ZejWI9M5VGtA")
+}
+
+.jumbotron{
+    font-family: 'Ranga', cursive;
+    text-align: center;
+    background-color: #9494b8;
+    margin-left: 20%;
+    margin-right:20%;
+    margin-top: 2%;
+    border-radius: 30%;
+    border: solid lightblue 2px;
+}
+
+.display-4{
+    font-size: 100px;
+}
+
+#start-btn{
+    border-radius: 35%;
+    width: 20%;
+    padding: 2%;
+    font-size: 30px;
+    background-color: darkorchid;
+    margin-top: 2%;
+}
+
+.forma {
+    background-color: #9494b8;
+    padding: 2%;
+    border-radius: 3%;
+}
+
+#start-btn hover{
+    background-color: yellow;
+}
+
+h1 {
+    font-family: 'Playball', cursive;
+}
+
+h3 {
+    font-weight: 30%;
+    margin: 2%;
+    font-family: 'Berkshire Swash', cursive;
+    color: #1257de;
+}
+
+h4{
+    font-size: 20px;
+    margin: 1%;
+    font-weight: 80%;
+    color: #660f6e;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    color: #d10094;
+}
