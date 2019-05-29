@@ -16,7 +16,7 @@ app.use(bodyParser.text());
 app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
 
 //CSS
-app.use(express.static(path.join(__dirname, "app/public")));
+app.use(express.static(path.join(__dirname, "./FriendFinder/app/public")));
 
 //Router
 require('./FriendFinder/app/routing/apiRoutes.js')(app);
