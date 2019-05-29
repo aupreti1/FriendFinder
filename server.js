@@ -19,8 +19,8 @@ app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
 app.use(express.static(path.join(__dirname, "app/public")));
 
 //Router
-require('./app/routing/apiRoutes.js')(app);
-require('./app/routing/htmlRoutes.js')(app);
+require('./FriendFinder/app/routing/apiRoutes.js')(app);
+require('./FriendFinder/app/routing/htmlRoutes.js')(app);
 
 // Displays all characters
 app.listen(PORT, function () {
